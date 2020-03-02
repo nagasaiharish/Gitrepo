@@ -1,0 +1,43 @@
+.taskmainmain{
+    background-color: teal;
+    width: 100;
+    display:flex;
+    justify-content: space-between;
+}
+.main1
+{   
+    position: fixed;
+    text-align: center;
+    background-color: thistle;
+    width: 20%;
+}
+.main2
+{
+    background-color: yellowgreen;
+    width: 79%;
+    /* align-self: center; */
+    justify-content: right;
+    align-items: right;
+    margin-left: 22%; 
+}
+
+img{
+    border-radius: 30%;
+}
+@media (min-width:260px) and (max-width:460px)
+{
+    .taskmainmain{
+
+        width:100;
+        display: flex;
+        flex-wrap: wrap;
+        justify-self: center;
+
+    }
+    .main1{
+        position: fixed;
+    }
+    img{
+        
+    }
+}

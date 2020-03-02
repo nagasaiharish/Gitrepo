@@ -1,0 +1,27 @@
+.taskmain{
+    text-align: center;
+    widows: 100%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap:wrap;
+}
+h1{
+    text-align: center;
+}
+@media (min-device-width:320px) and (max-device-width:460)
+{
+#side1,#side2,#side3
+{
+    text-align: center;
+    width: 100%;
+    margin:10%;
+}
+}
+#side1,#side2,#side3
+{
+    width: 30%;
+    background-color: tomato;
+    text-align: center;
+    display: flex;
+    flex-wrap:wrap;
+}

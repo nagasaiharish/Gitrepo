@@ -1,0 +1,19 @@
+{
+    "basics":{
+        "name":"Harish",
+        "role":"student",
+        "Email":"kodurunagasai@gmail",
+        "mobile":"+91 9625064932",
+        "Education":[
+            {
+                "degree":"nothing yet"
+            },
+            {
+                "school":"SSC"
+            },
+            {
+                "Inter":"Inter board"
+            }
+        ]
+    }
+}

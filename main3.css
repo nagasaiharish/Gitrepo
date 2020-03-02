@@ -1,0 +1,25 @@
+.main2{
+    width: 100%;
+    background-color: brown);
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 30%;
+}
+.main3{
+    width: 100%;
+    background-color: brown;
+    justify-content: space-around;
+    /* display: flex;
+    flex-wrap: wrap; */
+    border-radius: 30%;
+}
+
+#step1,#step2,#step3{
+    background-color: brown;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+img{
+    border-radius: 50%;
+}
